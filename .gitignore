@@ -4,3 +4,4 @@
 /dist/
 /__pycache__/
 /buildozer.spec
+/UI/__pycache__/ui.cpython-312.pyc
