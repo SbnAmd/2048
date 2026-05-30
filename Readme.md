@@ -1,9 +1,21 @@
-This is a simple 2048 game implemented in Python using the kivy library. Use the arrow keys to move the tiles and combine them to reach the 2048 tile. For undo use the 'ctrl+z' key combination. 
+# 2048
 
-To run the game, make sure you have Python and the kivy library installed. You can install kivy using pip:
+This is a simple 2048 game implemented in Python using the Kivy library. Use the arrow keys to move the tiles and combine them to reach the 2048 tile. To undo a move, press the Ctrl+Z key combination.
 
-```pip install -r requirements.txt```
+Requirements
+------------
+Make sure you have Python and the Kivy library installed. You can install the project's dependencies with pip:
 
-Then, run the main.py file to start the game:
+```bash
+pip install -r requirements.txt
+```
 
-```python main.py```
+Running the game
+----------------
+Start the game by running:
+
+```bash
+python main.py
+```
+
+Enjoy!
